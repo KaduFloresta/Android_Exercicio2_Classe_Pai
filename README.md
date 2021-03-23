@@ -24,7 +24,7 @@
 
 ---
 
-# Android_Exercicio2 - Classe Pai - JavaInstruções
+# Android Exercicio2 - "Classe Pai" - JavaInstruções
 1. Considerando a AppNum3_1 (Aula 03), transformá-la em uma classe pai. Outras activities criadas devem herdar dessa classe pai e automaticamente exibir na tela as mensagens já constantes na AppNum3-1. 
 2. Fazer com que as mensagens de mudança de estado sejam exibidas na tela em um componente de texto.
 
